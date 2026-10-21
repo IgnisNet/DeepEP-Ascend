@@ -1,6 +1,6 @@
 [submodule "third-party/clangd-ascend"]
 	path = third-party/clangd-ascend
-	url = https://github.com/deepseek-ai/clangd-ascend.git
+	url = https://github.com/IgnisNet/clangd-ascend.git
 [submodule "third-party/deep_jit"]
 	path = third-party/deep_jit
-	url = https://github.com/deepseek-ai/DeepJIT.git
+	url = https://github.com/IgnisNet/DeepJIT.git
